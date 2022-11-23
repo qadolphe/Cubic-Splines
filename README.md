@@ -5,4 +5,4 @@ Starter code provided by Prof. Matthew Zucker (mzucker1@swarthmore.edu) of Swart
 
 I have:
   1. Implemented general solution to left and right hand sides of augmented matrix found on: https://mathworld.wolfram.com/CubicSpline.html
-  2. 
+  2. Implemented Gauss-Seidel Method for solving linear systems
